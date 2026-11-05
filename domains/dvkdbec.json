@@ -1,0 +1,8 @@
+{
+  "name": "dvkdbec",
+  "type": "CNAME",
+  "target": "cname.vercel-dns.com",
+  "proxied": true,
+  "title": "dvkdbec Project",
+  "creator": "mkzstyle"
+}
