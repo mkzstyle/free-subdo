@@ -1,0 +1,8 @@
+{
+  "name": "chat",
+  "type": "CNAME",
+  "target": "cname.vercel-dns.com",
+  "proxied": true,
+  "title": "Chat ai assistant",
+  "creator": "mkzstyle"
+}
