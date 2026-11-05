@@ -1,0 +1,8 @@
+{
+  "name": "kaflix",
+  "type": "CNAME",
+  "target": "cname.vercel-dns.com",
+  "proxied": true,
+  "title": "Kaflix",
+  "creator": "mkzstyle"
+}
